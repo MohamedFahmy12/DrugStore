@@ -1,0 +1,17 @@
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.Service.deps.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.Service.runtimeconfig.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.Service.runtimeconfig.dev.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.Service.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.Service.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.BAL.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.DAL.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.BAL.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\bin\Debug\netcoreapp3.1\Pharmacy.DAL.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.csprojAssemblyReference.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.csproj.CoreCompileInputs.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.AssemblyInfoInputs.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.AssemblyInfo.cs
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.csproj.CopyComplete
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.Service\obj\Debug\netcoreapp3.1\Pharmacy.Service.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\bin\Debug\netcoreapp3.1\Pharmacy.DAL.deps.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\bin\Debug\netcoreapp3.1\Pharmacy.DAL.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\obj\Debug\netcoreapp3.1\Pharmacy.DAL.csprojAssemblyReference.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\obj\Debug\netcoreapp3.1\Pharmacy.DAL.AssemblyInfoInputs.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\obj\Debug\netcoreapp3.1\Pharmacy.DAL.AssemblyInfo.cs
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\bin\Debug\netcoreapp3.1\Pharmacy.DAL.runtimeconfig.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\bin\Debug\netcoreapp3.1\Pharmacy.DAL.runtimeconfig.dev.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\obj\Debug\netcoreapp3.1\Pharmacy.DAL.genruntimeconfig.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\bin\Debug\netcoreapp3.1\Pharmacy.DAL.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\obj\Debug\netcoreapp3.1\Pharmacy.DAL.csproj.CoreCompileInputs.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\obj\Debug\netcoreapp3.1\Pharmacy.DAL.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.DAL\obj\Debug\netcoreapp3.1\Pharmacy.DAL.pdb

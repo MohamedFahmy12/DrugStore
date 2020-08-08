@@ -1,0 +1,15 @@
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\bin\Debug\netcoreapp3.1\Pharmacy.BAL.deps.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\bin\Debug\netcoreapp3.1\Pharmacy.BAL.runtimeconfig.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\bin\Debug\netcoreapp3.1\Pharmacy.BAL.runtimeconfig.dev.json
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\bin\Debug\netcoreapp3.1\Pharmacy.BAL.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\bin\Debug\netcoreapp3.1\Pharmacy.BAL.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\bin\Debug\netcoreapp3.1\Pharmacy.DAL.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\bin\Debug\netcoreapp3.1\Pharmacy.DAL.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.csprojAssemblyReference.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.csproj.CoreCompileInputs.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.AssemblyInfoInputs.cache
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.AssemblyInfo.cs
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.csproj.CopyComplete
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.dll
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.pdb
+C:\MohamedFahmy\Pharmacy\Pharmacy.BAL\obj\Debug\netcoreapp3.1\Pharmacy.BAL.genruntimeconfig.cache
